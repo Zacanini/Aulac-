@@ -1,0 +1,14 @@
+D:\Camillo\ED\Aula07\bin\Debug\net8.0\Aula07.exe
+D:\Camillo\ED\Aula07\bin\Debug\net8.0\Aula07.deps.json
+D:\Camillo\ED\Aula07\bin\Debug\net8.0\Aula07.runtimeconfig.json
+D:\Camillo\ED\Aula07\bin\Debug\net8.0\Aula07.dll
+D:\Camillo\ED\Aula07\bin\Debug\net8.0\Aula07.pdb
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfoInputs.cache
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.AssemblyInfo.cs
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.csproj.CoreCompileInputs.cache
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.dll
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\refint\Aula07.dll
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.pdb
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\Aula07.genruntimeconfig.cache
+D:\Camillo\ED\Aula07\obj\Debug\net8.0\ref\Aula07.dll
